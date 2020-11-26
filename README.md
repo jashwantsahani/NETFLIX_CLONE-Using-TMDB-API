@@ -1,7 +1,10 @@
 # NETFLIX_CLONE-Using-TMDB-API
-https://netflix-clone-70dd6.web.app/
+Build NETFLIX APP using REACT with TMDB API .
+It is NETFLIX-CLONE with TRAILER pop ups. 
+Deployed on firebase 
+# https://netflix-clone-70dd6.web.app/
 
-https://netflix-clone-70dd6.firebaseapp.com/
+# https://netflix-clone-70dd6.firebaseapp.com/
 
 # Getting Started with Create React App
 
