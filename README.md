@@ -1,3 +1,7 @@
+#NETFLIX_CLONE-Using-TMDB-API
+https://netflix-clone-70dd6.web.app/
+https://netflix-clone-70dd6.firebaseapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
